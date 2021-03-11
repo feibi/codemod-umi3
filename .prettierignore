@@ -1,0 +1,7 @@
+dist/
+package.json
+package-lock.json
+.vscode
+.idea
+Dockerfile
+Jenkinsfile
